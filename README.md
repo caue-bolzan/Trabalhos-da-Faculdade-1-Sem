@@ -1,6 +1,6 @@
 # 📚 Algoritmos 1 – Primeiro Semestre
 
-Este repositório reúne os exercícios e desafios realizados no **primeiro semestre** da faculdade na disciplina **Algoritmos 1**.  
+Este repositório reúne os exercícios e desafios realizados no **primeiro semestre** da faculdade na disciplina **Algoritmos I**.  
 Durante as aulas, o professor utilizou **linguagem C** para ensinar os conceitos fundamentais.  
 Além disso, **estou aprendendo Python por conta própria** e, sempre que possível, implementei as mesmas atividades nessa linguagem para reforçar o aprendizado e comparar as duas sintaxes.
 
